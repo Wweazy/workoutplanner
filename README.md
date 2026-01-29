@@ -27,21 +27,12 @@ To jest aplikacja mobilna napisana we Flutterze — prosty menedżer treningów.
 - Poprawki układu formularza dodawania ćwiczenia:
 	- [lib/features/workout/presentation/add_exercise_page.dart](lib/features/workout/presentation/add_exercise_page.dart) — pola są w `ListView`, etykiety znajdują się nad polami, dodany `suffixText` dla jednostki (kg).
 
-# androidapp
-
-To jest aplikacja mobilna napisana we Flutterze — prosty menedżer treningów.
-
 ## Krótkie podsumowanie programu
 
 - Aplikacja pozwala tworzyć listę treningów, dodawać do nich ćwiczenia (serie, powtórzenia, ciężar) oraz oznaczać treningi jako zakończone.
 - Dodane lokalizacje: angielski, polski i rosyjski; wybór języka jest trwały (zapisany w ustawieniach).
 - Zaimplementowano wygodny wybór języka z flagami i natywną nazwą języka.
 - Poprawiono wygląd interfejsu: przyciski, karty i pola formularzy.
-
-## Wymagania
-
-- Zainstalowany Flutter (wersja stabilna) i narzędzia platformy (Android SDK) do budowania aplikacji mobilnej.
-- Połączenie z internetem do pobrania zależności.
 
 ## Zmiany i pliki do sprawdzenia
 
